@@ -20,9 +20,12 @@ const newsData = [
         description: "В школе наконец-то будет интернет-газета!",
         link: "news4.html" // Ссылка на полную новость
     },
-	
-
-];
+    {
+        title: "И снова праздник",
+        description: "Школьная интернет-газета теперь в интернете!",
+        link: "news5.html" // Ссылка на полную новость
+    }
+    ];
 
 
 const newsSection = document.getElementById('news-section');
